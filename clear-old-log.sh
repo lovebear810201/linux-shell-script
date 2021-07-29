@@ -1,7 +1,6 @@
 ##  clear-old-log.sh
 [root@bf-dev-152 sre]# cat clear-old-log.sh
 #!/bin/bash
-# ray
 # 2020-7-23 init version: delete old logs in assign folders
 # 2020-9-2 change to function. set log_folder log_patter keep_days_ago to clear old log
 # 2020-9-4 add working dir and create folder "logs" it not exist
