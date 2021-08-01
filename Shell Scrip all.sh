@@ -5,7 +5,6 @@ Shell Scrip
 
 [root@bf-dev-152 sre]# cat modules.sh
 #!/bin/bash
-# ray
 # 2020-8-3 init version: start all rd modules
 
 array_rd_modules=(
